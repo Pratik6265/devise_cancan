@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# devise_cancan
+>>>>>>> 9a3c5f0116561994700b7bf3d17b9e3a64f360aa

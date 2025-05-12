@@ -1,0 +1,5 @@
+<p>Hello <%= @admin.email %>,</p>
+
+<p>A new user <%= @user.email %> has signed up and needs approval.</p>
+<%= link_to 'Approve User', approve_users_admin_url(@user) %>
+<%= link_to 'Decline User', decline_users_admin_url(@user) %>
